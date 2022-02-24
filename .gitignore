@@ -9,3 +9,4 @@ printer-*.cfg
 /logs
 *.txt
 .moonraker.conf.bkp
+.idea
