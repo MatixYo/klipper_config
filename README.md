@@ -1,6 +1,6 @@
 # klipper_config of a Voron V2.4
 
-This is the config of my Voron 2.4 350mm3 Serial:V2.660
+This is the config of my Voron 2.4 300mm3 Serial:V2.2298
 
 Be aware I see my config as WIP and it can and will change any time. I normally do only checkin stuff that is tested and run with the base klipper branch but I test also klipper PRs so it can happen that I oversee that from time to time and have stuff here that needs a special PR from klipper.
 
